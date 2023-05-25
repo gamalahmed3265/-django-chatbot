@@ -6,28 +6,38 @@
 
 Make sure you have Python and Django installed. You can check if Django is installed by running the following command in your terminal:
 Code snippet
-`python -m django --version`
+````
+python -m django --version
+```
 Use code with caution. Learn more
 If you don't have Django installed, you can install it using pip:
 
 Code snippet
-`pip install django`
+```
+pip install django
+```
 Use code with caution. Learn more
 Create a Django project. You can do this by running the following command in your terminal:
 Code snippet
-`django-admin startproject myproject`
+```
+django-admin startproject myproject
+```
 Use code with caution. Learn more
 This will create a new directory called myproject with all the files you need to start developing your Django app.
 
 Create a Django app. You can do this by running the following command in your terminal:
 Code snippet
-`python manage.py startapp myapp`
+```
+python manage.py startapp myapp
+```
 Use code with caution. Learn more
 This will create a new directory called myapp inside the myproject directory. This directory contains all the files you need to start developing your Django app.
 
 Run the Django development server. You can do this by running the following command in your terminal:
 Code snippet
-`python manage.py runserver`
+```
+python manage.py runserver
+```
 Use code with caution. Learn more
 This will start a development server on your computer. You can access your Django app by opening a web browser and navigating to http://localhost:8000.
 
