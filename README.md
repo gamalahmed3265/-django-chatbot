@@ -1,5 +1,5 @@
 # django-chatbot
-using opoenAI and chatGPT
+using openAI and chatGPT
 `https://chat.openai.com/chat`
 
 
