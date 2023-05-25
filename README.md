@@ -37,7 +37,7 @@ python manage.py runserver
 
 This will start a development server on your computer. You can access your Django app by opening a web browser and navigating to
 ```
-http://localhost:8000.
+http://localhost:8000
 ```
 
 5. Make changes to your Django app. Once you have your Django app running, you can make changes to the code and the development server will automatically reload the changes so you can see them in your web browser.
